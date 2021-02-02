@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\My Demos">
+      <UniqueIdentifier>{1ed3f912-46a1-4ddd-81c6-d5182096ef8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cw3">
+      <UniqueIdentifier>{6fddd6c8-c994-4060-803c-aeedcf7fc7d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cw4">
+      <UniqueIdentifier>{412cb306-8c31-4fd9-867e-032caf59eb2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cw4\States">
+      <UniqueIdentifier>{a4821772-2d91-48a8-bfcb-cce5dbef8bea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Jason">
+      <UniqueIdentifier>{111a1b1c-4dd4-41ea-b68c-d68578d66c16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Jason\3 Very Advanced Cards Demo">
+      <UniqueIdentifier>{e8366b83-b6ea-4055-9a30-9447a56196f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Jason\1 Demos">
+      <UniqueIdentifier>{43825ca5-b5e1-402d-a57a-be1b7f41d1ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Jason\1 Framework">
+      <UniqueIdentifier>{82649680-6f01-4f4b-9016-33d2f9930b72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Jason\2 Advanced Framework">
+      <UniqueIdentifier>{7fc5a5ec-fa7d-4739-b176-6f5538b86764}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Jason\2 More Advanced Demos">
+      <UniqueIdentifier>{928099e3-f64c-47db-903a-8620e0f84f30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Jason">
+      <UniqueIdentifier>{63307184-4bfe-4a7e-9495-d66ab0bf3c7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Jason\3 Very Advanced Cards Demo">
+      <UniqueIdentifier>{1e15440c-2c6a-490a-8f8d-7aa781f7a0c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Jason\1 Demos">
+      <UniqueIdentifier>{4af3086a-f0ad-4421-8647-84b711bdf81f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Jason\1 Framework">
+      <UniqueIdentifier>{4e4a6a07-d337-42ef-975e-413637bbb864}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Jason\2 Advanced Framework">
+      <UniqueIdentifier>{4131a9d2-db12-4b0d-8585-d40d60aa4b87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Jason\2 More Advanced Demos">
+      <UniqueIdentifier>{74cd58c5-7fe5-46ff-9a3f-60771564d165}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cw3">
+      <UniqueIdentifier>{a2fd2b65-b058-426b-b1f8-0abc57e35f2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cw4">
+      <UniqueIdentifier>{a3abe538-57b6-42dd-94c4-57905b3ac482}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cw4\invisDisplayableObj">
+      <UniqueIdentifier>{768935cf-b58d-4d30-81cb-678f917b2356}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cw4\invisDisplayableObj\Bullet">
+      <UniqueIdentifier>{3f7faec4-40c1-46f9-80b5-22497fb57eba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cw4\invisDisplayableObj\Enemy">
+      <UniqueIdentifier>{ee46e8c5-071d-4705-9587-0aeee04671c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cw4\invisDisplayableObj">
+      <UniqueIdentifier>{667f68a2-9774-42a8-8cd4-72200d992ea5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cw4\invisDisplayableObj\Bullet">
+      <UniqueIdentifier>{a7fccada-6bbe-40fe-abb8-d364a31f2437}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cw4\invisDisplayableObj\Enemy">
+      <UniqueIdentifier>{fde50021-83cf-47e7-9324-c9e92cc5c025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cw4\State">
+      <UniqueIdentifier>{54c1ba53-5696-43f5-9777-3251f3bf9891}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseEngine.h">
+      <Filter>Header Files\Jason\1 Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayableObject.h">
+      <Filter>Header Files\Jason\1 Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="FontManager.h">
+      <Filter>Header Files\Jason\1 Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="MovementPosition.h">
+      <Filter>Header Files\Jason\1 Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="templates.h">
+      <Filter>Header Files\Jason\1 Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="TileManager.h">
+      <Filter>Header Files\Jason\1 Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="BouncingBall.h">
+      <Filter>Header Files\Jason\1 Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="BouncingBallMain.h">
+      <Filter>Header Files\Jason\1 Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleDemo.h">
+      <Filter>Header Files\Jason\1 Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="MazeDemoMain.h">
+      <Filter>Header Files\Jason\1 Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="MazeDemoObject.h">
+      <Filter>Header Files\Jason\1 Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="MazeDemoTileManager.h">
+      <Filter>Header Files\Jason\1 Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageObject.h">
+      <Filter>Header Files\Jason\1 Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="CardOrTile.h">
+      <Filter>Header Files\Jason\3 Very Advanced Cards Demo</Filter>
+    </ClInclude>
+    <ClInclude Include="CardContainer.h">
+      <Filter>Header Files\Jason\3 Very Advanced Cards Demo</Filter>
+    </ClInclude>
+    <ClInclude Include="DragableTokenContainer.h">
+      <Filter>Header Files\Jason\3 Very Advanced Cards Demo</Filter>
+    </ClInclude>
+    <ClInclude Include="DragableToken.h">
+      <Filter>Header Files\Jason\3 Very Advanced Cards Demo</Filter>
+    </ClInclude>
+    <ClInclude Include="Notify.h">
+      <Filter>Header Files\Jason\3 Very Advanced Cards Demo</Filter>
+    </ClInclude>
+    <ClInclude Include="TokenTray.h">
+      <Filter>Header Files\Jason\3 Very Advanced Cards Demo</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayingCardsDemo.h">
+      <Filter>Header Files\Jason\3 Very Advanced Cards Demo</Filter>
+    </ClInclude>
+    <ClInclude Include="RawImage.h">
+      <Filter>Header Files\Jason\2 Advanced Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="DragableObject.h">
+      <Filter>Header Files\Jason\2 Advanced Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="FilterPoints.h">
+      <Filter>Header Files\Jason\2 Advanced Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayableObjectContainer.h">
+      <Filter>Header Files\Jason\1 Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="DragAlignment.h">
+      <Filter>Header Files\Jason\2 Advanced Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawingFilters.h">
+      <Filter>Header Files\Jason\2 Advanced Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawingSurface.h">
+      <Filter>Header Files\Jason\2 Advanced Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="DraggingDemo.h">
+      <Filter>Header Files\Jason\2 More Advanced Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="ZoomingDemo.h">
+      <Filter>Header Files\Jason\2 More Advanced Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionDetection.h">
+      <Filter>Header Files\Jason\1 Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="DragableImageObject.h">
+      <Filter>Header Files\Jason\2 Advanced Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageManager.h">
+      <Filter>Header Files\Jason\1 Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleImage.h">
+      <Filter>Header Files\Jason\1 Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="BouncingObject.h">
+      <Filter>Header Files\Jason\1 Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="BouncingImageObject.h">
+      <Filter>Header Files\Jason\1 Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageObjectDemo.h">
+      <Filter>Header Files\Jason\1 Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleTrig.h">
+      <Filter>Header Files\Jason\2 Advanced Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleFlashingDragableImageObject.h">
+      <Filter>Header Files\Jason\2 Advanced Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="StarfieldDemo.h">
+      <Filter>Header Files\Jason\2 More Advanced Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashingDemo.h">
+      <Filter>Header Files\Jason\2 More Advanced Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="DragableBaseClassObject.h">
+      <Filter>Header Files\Jason\2 Advanced Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="JasonsDemoA.h">
+      <Filter>Header Files\Jason\1 Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="JasonsObjectA.h">
+      <Filter>Header Files\Jason\1 Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="JasonsTileManager.h">
+      <Filter>Header Files\Jason\1 Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="CoordinateMapping.h">
+      <Filter>Header Files\Jason\2 Advanced Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageMappingDemo.h">
+      <Filter>Header Files\Jason\2 More Advanced Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="MappableImageObject.h">
+      <Filter>Header Files\Jason\2 Advanced Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="JigsawDemo.h">
+      <Filter>Header Files\Jason\2 More Advanced Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="JigsawPiece.h">
+      <Filter>Header Files\Jason\2 More Advanced Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="AutoObject.h">
+      <Filter>Header Files\Cw3</Filter>
+    </ClInclude>
+    <ClInclude Include="Cw3Object.h">
+      <Filter>Header Files\Cw3</Filter>
+    </ClInclude>
+    <ClInclude Include="MyDemoA.h">
+      <Filter>Header Files\Cw3</Filter>
+    </ClInclude>
+    <ClInclude Include="MyObjectA.h">
+      <Filter>Header Files\Cw3</Filter>
+    </ClInclude>
+    <ClInclude Include="MyTileManager.h">
+      <Filter>Header Files\Cw3</Filter>
+    </ClInclude>
+    <ClInclude Include="PpyajmaEngine.h">
+      <Filter>Header Files\Cw3</Filter>
+    </ClInclude>
+    <ClInclude Include="PpyajmaTileManager.h">
+      <Filter>Header Files\Cw3</Filter>
+    </ClInclude>
+    <ClInclude Include="Cw4Engine.h">
+      <Filter>Header Files\Cw4</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioController.h">
+      <Filter>Header Files\Cw4</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicEnemy.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosion.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj</Filter>
+    </ClInclude>
+    <ClInclude Include="ForceRock.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="invisDisplayableObj.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj</Filter>
+    </ClInclude>
+    <ClInclude Include="Laser.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseObj.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj</Filter>
+    </ClInclude>
+    <ClInclude Include="Rocket.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Shield.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj</Filter>
+    </ClInclude>
+    <ClInclude Include="SmallSD.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="StarDestroyer.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Cw4State.h">
+      <Filter>Header Files\Cw4\State</Filter>
+    </ClInclude>
+    <ClInclude Include="RunLv1.h">
+      <Filter>Header Files\Cw4\State</Filter>
+    </ClInclude>
+    <ClInclude Include="RunLv2.h">
+      <Filter>Header Files\Cw4\State</Filter>
+    </ClInclude>
+    <ClInclude Include="StartUpState.h">
+      <Filter>Header Files\Cw4\State</Filter>
+    </ClInclude>
+    <ClInclude Include="StarWarsLogo.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj</Filter>
+    </ClInclude>
+    <ClInclude Include="StateRunning.h">
+      <Filter>Header Files\Cw4\State</Filter>
+    </ClInclude>
+    <ClInclude Include="StatePaused.h">
+      <Filter>Header Files\Cw4\State</Filter>
+    </ClInclude>
+    <ClInclude Include="TieFighter.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="DSContainer.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="DeathStar.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFilterPScaling.h">
+      <Filter>Header Files\Cw4</Filter>
+    </ClInclude>
+    <ClInclude Include="currScore.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj</Filter>
+    </ClInclude>
+    <ClInclude Include="LeaderBoard.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj</Filter>
+    </ClInclude>
+    <ClInclude Include="Lvl2StartState.h">
+      <Filter>Header Files\Cw4\State</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreState.h">
+      <Filter>Header Files\Cw4\State</Filter>
+    </ClInclude>
+    <ClInclude Include="Lvl2Crawl.h">
+      <Filter>Header Files\Cw4\invisDisplayableObj</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="mainfunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseEngine.cpp">
+      <Filter>Source Files\Jason\1 Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayableObject.cpp">
+      <Filter>Source Files\Jason\1 Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="FontManager.cpp">
+      <Filter>Source Files\Jason\1 Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="TileManager.cpp">
+      <Filter>Source Files\Jason\1 Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="BouncingBall.cpp">
+      <Filter>Source Files\Jason\1 Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="BouncingBallMain.cpp">
+      <Filter>Source Files\Jason\1 Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleDemo.cpp">
+      <Filter>Source Files\Jason\1 Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="MazeDemoObject.cpp">
+      <Filter>Source Files\Jason\1 Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="MazeDemoMain.cpp">
+      <Filter>Source Files\Jason\1 Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="MazeDemoTileManager.cpp">
+      <Filter>Source Files\Jason\1 Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawingSurface.cpp">
+      <Filter>Source Files\Jason\2 Advanced Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="RawImage.cpp">
+      <Filter>Source Files\Jason\2 Advanced Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="ZoomingDemo.cpp">
+      <Filter>Source Files\Jason\2 More Advanced Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="DraggingDemo.cpp">
+      <Filter>Source Files\Jason\2 More Advanced Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayingCardsDemo.cpp">
+      <Filter>Source Files\Jason\3 Very Advanced Cards Demo</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageObjectDemo.cpp">
+      <Filter>Source Files\Jason\1 Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleImage.cpp">
+      <Filter>Source Files\Jason\1 Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="JasonsDemoA.cpp">
+      <Filter>Source Files\Jason\1 Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="JasonsObjectA.cpp">
+      <Filter>Source Files\Jason\1 Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="JasonsTileManager.cpp">
+      <Filter>Source Files\Jason\1 Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageMappingDemo.cpp">
+      <Filter>Source Files\Jason\2 More Advanced Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="JigsawDemo.cpp">
+      <Filter>Source Files\Jason\2 More Advanced Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashingDemo.cpp">
+      <Filter>Source Files\Jason\2 More Advanced Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="StarfieldDemo.cpp">
+      <Filter>Source Files\Jason\2 More Advanced Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="MyDemoA.cpp">
+      <Filter>Source Files\My Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="MyObjectA.cpp">
+      <Filter>Source Files\My Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="MyTileManager.cpp">
+      <Filter>Source Files\My Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoObject.cpp">
+      <Filter>Source Files\Cw3</Filter>
+    </ClCompile>
+    <ClCompile Include="Cw3Object.cpp">
+      <Filter>Source Files\Cw3</Filter>
+    </ClCompile>
+    <ClCompile Include="PpyajmaEngine.cpp">
+      <Filter>Source Files\Cw3</Filter>
+    </ClCompile>
+    <ClCompile Include="PpyajmaTileManager.cpp">
+      <Filter>Source Files\Cw3</Filter>
+    </ClCompile>
+    <ClCompile Include="invisDisplayableObj.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj</Filter>
+    </ClCompile>
+    <ClCompile Include="Cw4State.cpp">
+      <Filter>Source Files\Cw4\States</Filter>
+    </ClCompile>
+    <ClCompile Include="StatePaused.cpp">
+      <Filter>Source Files\Cw4\States</Filter>
+    </ClCompile>
+    <ClCompile Include="StateRunning.cpp">
+      <Filter>Source Files\Cw4\States</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseObj.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj</Filter>
+    </ClCompile>
+    <ClCompile Include="Cw4Engine.cpp">
+      <Filter>Source Files\Cw4</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosion.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Laser.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicEnemy.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="TieFighter.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="ForceRock.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="StarDestroyer.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="RunLv1.cpp">
+      <Filter>Source Files\Cw4\States</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioController.cpp">
+      <Filter>Source Files\Cw4</Filter>
+    </ClCompile>
+    <ClCompile Include="Rocket.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Shield.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj</Filter>
+    </ClCompile>
+    <ClCompile Include="RunLv2.cpp">
+      <Filter>Source Files\Cw4\States</Filter>
+    </ClCompile>
+    <ClCompile Include="SmallSD.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="StartUpState.cpp">
+      <Filter>Source Files\Cw4\States</Filter>
+    </ClCompile>
+    <ClCompile Include="StarWarsLogo.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj</Filter>
+    </ClCompile>
+    <ClCompile Include="DeathStar.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="DSContainer.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Lvl2StartState.cpp">
+      <Filter>Source Files\Cw4\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Lvl2Crawl.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreState.cpp">
+      <Filter>Source Files\Cw4\States</Filter>
+    </ClCompile>
+    <ClCompile Include="LeaderBoard.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj</Filter>
+    </ClCompile>
+    <ClCompile Include="currScore.cpp">
+      <Filter>Source Files\Cw4\invisDisplayableObj</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

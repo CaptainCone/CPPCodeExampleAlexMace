@@ -1,0 +1,75 @@
+﻿  AudioController.cpp
+  AutoObject.cpp
+  BasicEnemy.cpp
+  Bullet.cpp
+  currScore.cpp
+  Cw3Object.cpp
+  Cw4Engine.cpp
+  Cw4State.cpp
+  DeathStar.cpp
+  DraggingDemo.cpp
+  DrawingSurface.cpp
+  DSContainer.cpp
+  Explosion.cpp
+  FlashingDemo.cpp
+  ForceRock.cpp
+  ImageObjectDemo.cpp
+  invisDisplayableObj.cpp
+  JigsawDemo.cpp
+  Laser.cpp
+  LeaderBoard.cpp
+  Generating Code...
+  Compiling...
+  Lvl2Crawl.cpp
+  Lvl2StartState.cpp
+  mainfunction.cpp
+  BaseEngine.cpp
+  DisplayableObject.cpp
+  FontManager.cpp
+  ImageMappingDemo.cpp
+  MyDemoA.cpp
+  MyObjectA.cpp
+  MyTileManager.cpp
+  PauseObj.cpp
+  Player.cpp
+  PpyajmaEngine.cpp
+  PpyajmaTileManager.cpp
+  Rocket.cpp
+  RunLv1.cpp
+  RunLv2.cpp
+  ScoreState.cpp
+  Shield.cpp
+  SimpleImage.cpp
+  Generating Code...
+  Compiling...
+  JasonsDemoA.cpp
+  JasonsObjectA.cpp
+  JasonsTileManager.cpp
+  PlayingCardsDemo.cpp
+  RawImage.cpp
+  SimpleDemo.cpp
+  SmallSD.cpp
+  StarDestroyer.cpp
+  StarfieldDemo.cpp
+  StartUpState.cpp
+  StarWarsLogo.cpp
+F:\Users\Alexj\OneDrive - The University of Nottingham\Y2\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\MyFilterPScaling.h(9,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\Users\Alexj\OneDrive - The University of Nottingham\Y2\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\MyFilterPScaling.h(9,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\Users\Alexj\OneDrive - The University of Nottingham\Y2\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\MyFilterPScaling.h(9,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\Users\Alexj\OneDrive - The University of Nottingham\Y2\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\MyFilterPScaling.h(9,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\Users\Alexj\OneDrive - The University of Nottingham\Y2\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\MyFilterPScaling.h(31,1): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+F:\Users\Alexj\OneDrive - The University of Nottingham\Y2\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\MyFilterPScaling.h(40,1): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+F:\Users\Alexj\OneDrive - The University of Nottingham\Y2\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\MyFilterPScaling.h(53,1): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+  StatePaused.cpp
+  StateRunning.cpp
+  TieFighter.cpp
+  TileManager.cpp
+  BouncingBall.cpp
+  BouncingBallMain.cpp
+  ZoomingDemo.cpp
+  Generating Code...
+  MazeDemoMain.cpp
+  MazeDemoObject.cpp
+  MazeDemoTileManager.cpp
+  Generating Code...
+  CourseworkBase.vcxproj -> F:\Users\Alexj\OneDrive - The University of Nottingham\Y2\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\Debug\CourseworkBase2020.exe

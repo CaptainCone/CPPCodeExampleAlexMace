@@ -1,0 +1,129 @@
+﻿  AudioController.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  AutoObject.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  BasicEnemy.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Bullet.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  currScore.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Cw3Object.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Cw4Engine.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Cw4State.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  DeathStar.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  DraggingDemo.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  DrawingSurface.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  DSContainer.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Explosion.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  FlashingDemo.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  ForceRock.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  ImageObjectDemo.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  invisDisplayableObj.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  JigsawDemo.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Laser.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  LeaderBoard.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
+  Compiling...
+  Lvl2Crawl.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Lvl2StartState.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  mainfunction.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  BaseEngine.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  DisplayableObject.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  FontManager.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  ImageMappingDemo.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MyDemoA.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MyObjectA.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MyTileManager.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  PauseObj.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Player.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  PpyajmaEngine.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  PpyajmaTileManager.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Rocket.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  RunLv1.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  RunLv2.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  ScoreState.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Shield.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SimpleImage.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
+  Compiling...
+  JasonsDemoA.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  JasonsObjectA.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  JasonsTileManager.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  PlayingCardsDemo.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  RawImage.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SimpleDemo.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SmallSD.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  StarDestroyer.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  StarfieldDemo.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  StartUpState.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  StarWarsLogo.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  StatePaused.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  StateRunning.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TieFighter.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TileManager.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  BouncingBall.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  BouncingBallMain.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MazeDemoMain.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MazeDemoObject.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MazeDemoTileManager.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
+  Compiling...
+  ZoomingDemo.cpp
+C:\Users\Alexj\OneDrive - The University of Nottingham\C++\CPPCoursework2020-v101\CPPCoursework2020-v101\src\header.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...

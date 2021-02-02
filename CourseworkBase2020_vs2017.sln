@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CourseworkBase2020", "src\CourseworkBase.vcxproj", "{63F64093-23C3-4181-8554-C22C5AE2DDAC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StarWarsTheAsteroidEscape", "StarWarsTheAsteroidEscape\StarWarsTheAsteroidEscape.vdproj", "{CC47B99F-D2F4-4A4B-821E-208DB650C58B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F64093-23C3-4181-8554-C22C5AE2DDAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63F64093-23C3-4181-8554-C22C5AE2DDAC}.Debug|Win32.Build.0 = Debug|Win32
+		{63F64093-23C3-4181-8554-C22C5AE2DDAC}.Release|Win32.ActiveCfg = Release|Win32
+		{63F64093-23C3-4181-8554-C22C5AE2DDAC}.Release|Win32.Build.0 = Release|Win32
+		{CC47B99F-D2F4-4A4B-821E-208DB650C58B}.Debug|Win32.ActiveCfg = Debug
+		{CC47B99F-D2F4-4A4B-821E-208DB650C58B}.Release|Win32.ActiveCfg = Release
+		{CC47B99F-D2F4-4A4B-821E-208DB650C58B}.Release|Win32.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAD5B0E6-47AA-4CEF-A528-E3587AA22065}
+	EndGlobalSection
+EndGlobal
