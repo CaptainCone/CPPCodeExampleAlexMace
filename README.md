@@ -1,13 +1,13 @@
 # CPPCodeExampleAlexMace
 An example of C++ code from a university project. This piece of work was awarded 16.5/20 available marks (82.5% or a high first class). For the module C++ overall I was awarded 89/100 (a high first class).
 
-A description of the coursework is supplied in [FILE] to show the functional requirements this piece of work was made to. I believe this shows my abailty to write code to a given specification and to get the code completed by a deadling. In summary:
+A description of the coursework is supplied in [G52CPP_CW3_and_4_Requirements v1.2.pdf] to show the functional requirements this piece of work was made to. I believe this shows my abailty to write code to a given specification and to get the code completed by a deadling. In summary:
 
 Core requirements:  
 Requirement 1: Add states to your program  
 Requirement 2: Save and load some non-trivial data  
 Requirement 3. Interesting and impressive automated objects   
-Requirement 4. Impact/Impression (and requirement L: Sellable quality)   
+Requirement 4. Impact/Impression    
 
 Optional requirements:  
 Requirement A: Correctly implement scrolling and zooming using the framework’s FilterPoints
@@ -22,6 +22,7 @@ Requirement H. Image rotation/manipulation using the CoordinateMapping object
 Requirement I. Integrate sound using SDL  
 Requirement J. Show your understanding of templates and/or operator overloading  
 Requirement K. Use your own smart pointers appropriately  
+Requirement L: Sellable quality
 
 
 Code authored by myself (Alex Mace)
