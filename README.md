@@ -1,6 +1,8 @@
 # CPPCodeExampleAlexMace
 An example of C++ code from a university project. This piece of work was awarded 16.5/20 available marks (82.5% or a high first class). For the module C++ overall I was awarded 89/100 (a high first class).
 
+This is not the repository that this project was built in so there is no branch/version history.
+
 A description of the coursework is supplied in [G52CPP_CW3_and_4_Requirements v1.2.pdf] to show the functional requirements this piece of work was made to. I believe this shows my abailty to write code to a given specification and to get the code completed by a deadling. In summary:
 
 Core requirements:  
