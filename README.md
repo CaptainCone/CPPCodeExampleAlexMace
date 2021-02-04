@@ -3,7 +3,7 @@ An example of C++ code from a university project written in April-May 2020. This
 
 This is not the repository that this project was built in so there is no branch/version history.
 
-A description of the coursework is supplied in [G52CPP_CW3_and_4_Requirements v1.2.pdf] to show the functional requirements this piece of work was made to. I believe this shows my abailty to write code to a given specification and to get the code completed by a deadling. In summary:
+A description of the coursework is supplied in [G52CPP_CW3_and_4_Requirements v1.2.pdf] to show the functional requirements this piece of work was made to. I believe this shows my ability to write code to a given specification and to get the code completed by a deadline. In summary:
 
 Core requirements:  
 Requirement 1: Add states to your program  
