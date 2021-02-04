@@ -1,5 +1,5 @@
 # CPPCodeExampleAlexMace
-An example of C++ code from a university project. This piece of work was awarded 16.5/20 available marks (82.5% or a high first class). For the module C++ overall I was awarded 89/100 (a high first class).
+An example of C++ code from a university project written in April-May 2020. This piece of work was awarded 16.5/20 available marks (82.5% or a high first class). For the module C++ overall I was awarded 89/100 (a high first class).
 
 This is not the repository that this project was built in so there is no branch/version history.
 
